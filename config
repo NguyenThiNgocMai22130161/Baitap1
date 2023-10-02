@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Origin"]
+	url = https://github.com/NguyenThiNgocMai22130161/Baitap1.git
+	fetch = +refs/heads/*:refs/remotes/Origin/*
